@@ -19,7 +19,7 @@
 <li><b>CSS:</b></li> Styles the Game elements, including colors, fonts, and layout.
 
 <li><b>JavaScript:</b></li> Implements the Game logic, including player turns, win detection, draw detection, and Game reset functionality.
-
+</ul>
 <b>Usage:</b>
 
 Clone the repository to your local machine using git clone.
