@@ -12,41 +12,37 @@
 
 <li><b>Responsive Design</b>: The Game interface is designed to adapt to different screen sizes, ensuring a consistent experience across devices.</li></ul>
 
-Technologies Used:
+<b>Technologies Used:</b>
 
-HTML: Provides the structure for the Game interface and grid layout.
+<b>HTML:</b> Provides the structure for the Game interface and grid layout.
 
-CSS: Styles the Game elements, including colors, fonts, and layout.
+<b>CSS:</b> Styles the Game elements, including colors, fonts, and layout.
 
-JavaScript: Implements the Game logic, including player turns, win detection, draw detection, and Game reset functionality.
+<b>JavaScript:</b> Implements the Game logic, including player turns, win detection, draw detection, and Game reset functionality.
 
-Usage:
+<b>Usage:</b>
 
 Clone the repository to your local machine using git clone.
-Open the index.html file in your web browser.
+Open the <b>index.html</b> file in your web browser.
 Players can take turns clicking on the grid cells to place their symbols.
 The Game will automatically detect winning patterns or a draw.
-To start a new Game, simply refresh the web page.
-Why Use:
 
-Learning Purposes: This project serves as a beginner-friendly example for learning front-end web development concepts, including HTML, CSS, and JavaScript.
+<b>Why Use:</b>
 
-Customization: Developers can customize and expand upon the codebase to add new features or modify the Game's appearance.
+<b>Learning Purposes</b>: This project serves as a beginner-friendly example for learning front-end web development concepts, including HTML, CSS, and JavaScript.
 
-Community Contributions: Contributions from the open-source community are welcomed, whether it's fixing bugs, adding features, or improving documentation.
+<b>Customization</b>: Developers can customize and expand upon the codebase to add new features or modify the Game's appearance.
 
-Contributing:
+<b>Community Contributions</b>: Contributions from the open-source community are welcomed, whether it's fixing bugs, adding features, or improving documentation.
+
+<b>Contributing</b>:
 
 Contributions are encouraged! Feel free to open an issue or submit a pull request for any enhancements or fixes you'd like to contribute.
 
-License:
+<b>Author</b>:
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+[Saksham Singh Rathore/saksham-1304] - [sakshamsinghrathore1304@gmail.com]
 
-Author:
 
-[Your Name/Username] - [Your Website/Portfolio] - [Your Email Address]
 
-Acknowledgments:
 
-Special thanks to [Name/Username] for [specific contribution or inspiration].
