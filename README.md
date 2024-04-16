@@ -41,7 +41,7 @@ Contributions are encouraged! Feel free to open an issue or submit a pull reques
 
 <b>Author</b>:
 
-[Saksham Singh Rathore/saksham-1304] - [sakshamsinghrathore1304@gmail.com]
+[Saksham Singh Rathore/[https://github.com/saksham-1304] - [sakshamsinghrathore1304@gmail.com]
 
 
 
