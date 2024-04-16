@@ -14,26 +14,26 @@
 
 <b>Technologies Used:</b>
 <ul>
-<li><b>HTML:</b></li> Provides the structure for the Game interface and grid layout.
+<li><b>HTML:</b> Provides the structure for the Game interface and grid layout.</li>
 
-<li><b>CSS:</b></li> Styles the Game elements, including colors, fonts, and layout.
+<li><b>CSS:</b> Styles the Game elements, including colors, fonts, and layout.</li>
 
-<li><b>JavaScript:</b></li> Implements the Game logic, including player turns, win detection, draw detection, and Game reset functionality.
-</ul>
+<li><b>JavaScript:</b> Implements the Game logic, including player turns, win detection, draw detection, and Game reset functionality.</li>
+
 <b>Usage:</b>
 
-Clone the repository to your local machine using git clone.
+Clone the repository to your local machine using <b>git clone</b>.
 Open the <b>index.html</b> file in your web browser.
 Players can take turns clicking on the grid cells to place their symbols.
 The Game will automatically detect winning patterns or a draw.
 
 <b>Why Use:</b>
 <ul>
-<li><b>Learning Purposes</b></li>: This project serves as a beginner-friendly example for learning front-end web development concepts, including HTML, CSS, and JavaScript.
+<li><b>Learning Purposes</b>: This project serves as a beginner-friendly example for learning front-end web development concepts, including HTML, CSS, and JavaScript.</li>
 
-<li><b>Customization</b></li>: Developers can customize and expand upon the codebase to add new features or modify the Game's appearance.
+<li><b>Customization</b>: Developers can customize and expand upon the codebase to add new features or modify the Game's appearance.</li>
 
-<li><b>Community Contributions</b></li>: Contributions from the open-source community are welcomed, whether it's fixing bugs, adding features, or improving documentation.
+<li><b>Community Contributions</b>: Contributions from the open-source community are welcomed, whether it's fixing bugs, adding features, or improving documentation.</li>
 </ul>
 <b>Contributing</b>:
 
