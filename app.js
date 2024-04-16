@@ -45,7 +45,7 @@ boxes.forEach((box) => {
             gameDraw();
         }
 
-    });
+    }); 
 });
 
 const gameDraw = () => {
